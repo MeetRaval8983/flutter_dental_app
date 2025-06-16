@@ -50,6 +50,6 @@ flutter run -d android      # For Android
 flutter run -d ios          # For iOS (if macOS)
 ```
 
-🚫 License
+### 🚫 License
 This project is currently under institutional academic development.
 Public usage is not allowed until further notice.
