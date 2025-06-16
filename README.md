@@ -48,6 +48,7 @@ A Flutter-based **mobile application** for dental clinic management, developed a
 flutter pub get
 flutter run -d android      # For Android
 flutter run -d ios          # For iOS (if macOS)
+```
 
 🚫 License
 This project is currently under institutional academic development.
